@@ -1,0 +1,73 @@
+Features:
+    ✔ Database prepopulate data on first run @done(20-11-02 11:35)
+
+    ✔ Named routing @done(20-11-05 16:57)
+
+    UserData:
+        ✔ Store user name, age, gender, weight in DB @done(20-11-04 11:43)
+        ✔ UI on home screen @done(20-11-02 15:44)
+        ✔ Ui in settings @done(20-11-04 11:43)
+        ✔ Bind data from db @done(20-11-04 11:43)
+
+    Exercise:
+         ✔ Daily @done(20-11-13 16:58)
+
+    Workout Detail:
+        ✔ Fix youtube view @done(20-11-24 17:06)
+        ✔ Timer with seconds @done(20-11-02 19:16)
+        ✔ New exercise default set to 0 reps @done(20-11-02 23:24)
+        ✔ Avg sets from last 3 workouts on new exercise add @done(20-11-02 23:24)
+        ✔ Confirm before stop workout @done(20-11-02 19:21)
+        ✔ Handle if workout is not stopped @done(20-11-04 14:59)
+        ✔ Prevent from sleep @done(20-11-04 15:42)
+        ✔ End Screen @done(20-11-16 13:25)
+        ✔ Countdown timer with audio @done(20-11-23 15:43)
+    
+    Initalize Workout:
+        ✔ Sort as per day @done(20-11-20 14:41)
+        ✔ Copy from previous workout @done(20-11-24 15:44)
+
+    Settings:
+        ✔ Theme @done(20-11-04 13:25)
+        Local Notifications:
+            ✔ Implement android side @done(20-11-10 13:47)
+            ✔ Implement ios side @done(20-11-10 14:11)
+            ✔ Schedule notification and configure from Sembast DB @done(20-11-10 13:47)
+            ✔ Manage / Update notification settings (in case of ios if app is uninstalled handle it) @done(20-11-10 13:47)
+            ✔ Custom notification messages from stored file @done(20-11-16 17:06)
+    
+    Home Screen:
+        Calendar view:
+            ✔ Month wise calendar with workout data @done(20-10-30 20:53)
+            ✔ Detail data on  click of a day (timeline view) @done(20-11-02 14:47)
+            ✔ Default date value fix @done(20-11-04 13:25)
+            ✔ Detail data on card click @done(20-11-07 16:36)
+        Statistics view:
+            ✔ Exercise wise progress @done(20-11-27 19:58)
+            ✔ Exercise graph @done(20-11-27 19:58)
+    
+    Quotes:
+        ✔ Quote api itegration @done(20-11-05 15:42)
+        ✔ Cache quote to db @done(20-11-05 15:43)
+        ✔ Bind with ui @done(20-11-05 15:43)
+    
+    Exercise goals:
+        ✔ Database and Modal @done(20-11-16 21:06)
+        ✔ Settings @done(20-11-16 21:06)
+        ✔ Workout Detail @done(20-11-17 15:57)
+        ✔ End Screen @done(20-11-17 15:57)
+        ✔ Home Screen @done(20-11-20 14:55)
+    
+    ☐ Google Analytics
+
+    Firebase Integration:
+        ☐ Firebase login
+        ☐ User data sync
+        ☐ User workout sync
+        ☐ Workout sync and Exercise sync
+
+    Timeline View:
+        ✔ Database structure @done(20-12-05 12:46)
+        ✔ Add goals automatically on update @done(20-12-08 10:37)
+        ✔ Images for progress at workout end @done(20-12-05 12:46)
+        ✔ Timeline Ui @done(20-12-08 10:37)

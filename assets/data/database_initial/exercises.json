@@ -1,0 +1,458 @@
+[
+    {
+        "unit": "Repitition",
+        "name": "Push Up",
+        "frequency": 0,
+        "workoutIDs": [
+            1
+        ],
+        "goals": [
+            20,
+            18,
+            16
+        ],
+        "youtubeUrl": null,
+        "note": "",
+        "dailyExercise": false
+    },
+    {
+        "unit": "Repitition",
+        "name": "Close Grip Push Up",
+        "frequency": 0,
+        "workoutIDs": [
+            1
+        ],
+        "goals": [],
+        "youtubeUrl": null,
+        "note": "",
+        "dailyExercise": false
+    },
+    {
+        "unit": "Repitition",
+        "name": "Wide Grip Push Up",
+        "frequency": 0,
+        "workoutIDs": [
+            1
+        ],
+        "goals": [],
+        "youtubeUrl": null,
+        "note": "",
+        "dailyExercise": false
+    },
+    {
+        "unit": "Second",
+        "name": "Pike Hold",
+        "frequency": 0,
+        "workoutIDs": [
+            1
+        ],
+        "goals": [
+            50,
+            46,
+            42
+        ],
+        "youtubeUrl": null,
+        "note": "",
+        "dailyExercise": false
+    },
+    {
+        "unit": "Repitition",
+        "name": "Pike Push Up",
+        "frequency": 0,
+        "workoutIDs": [
+            1
+        ],
+        "goals": [],
+        "youtubeUrl": null,
+        "note": "",
+        "dailyExercise": false
+    },
+    {
+        "unit": "Repitition",
+        "name": "Tricep Dip",
+        "frequency": 0,
+        "workoutIDs": [
+            1
+        ],
+        "goals": [
+            30,
+            26,
+            22
+        ],
+        "youtubeUrl": null,
+        "note": "",
+        "dailyExercise": false
+    },
+    {
+        "unit": "Repitition",
+        "name": "Plank Tricep Extension",
+        "frequency": 0,
+        "workoutIDs": [
+            1
+        ],
+        "goals": [
+            10,
+            8,
+            6
+        ],
+        "youtubeUrl": null,
+        "note": "",
+        "dailyExercise": false
+    },
+    {
+        "unit": "Second",
+        "name": "Dead Hang",
+        "frequency": 0,
+        "workoutIDs": [
+            2
+        ],
+        "goals": [],
+        "youtubeUrl": null,
+        "note": "",
+        "dailyExercise": false
+    },
+    {
+        "unit": "Second",
+        "name": "Active Hang",
+        "frequency": 0,
+        "workoutIDs": [
+            2
+        ],
+        "goals": [
+            30,
+            26,
+            22
+        ],
+        "youtubeUrl": null,
+        "note": "",
+        "dailyExercise": false
+    },
+    {
+        "unit": "Repitition",
+        "name": "Negative Pull Up",
+        "frequency": 0,
+        "workoutIDs": [
+            2
+        ],
+        "goals": [],
+        "youtubeUrl": null,
+        "note": "",
+        "dailyExercise": false
+    },
+    {
+        "id": 12,
+        "unit": "Repitition",
+        "name": "Australian Pull Up",
+        "frequency": 0,
+        "workoutIDs": [
+            2
+        ],
+        "goals": [],
+        "youtubeUrl": null,
+        "note": "",
+        "dailyExercise": false
+    },
+    {
+        "id": 13,
+        "unit": "Repitition",
+        "name": "Assisted Pull Up",
+        "frequency": 0,
+        "workoutIDs": [
+            2
+        ],
+        "goals": [],
+        "youtubeUrl": null,
+        "note": "",
+        "dailyExercise": false
+    },
+    {
+        "id": 14,
+        "unit": "Repitition",
+        "name": "Chin Up",
+        "frequency": 0,
+        "workoutIDs": [
+            2
+        ],
+        "goals": [],
+        "youtubeUrl": null,
+        "note": "",
+        "dailyExercise": false
+    },
+    {
+        "unit": "Repitition",
+        "name": "Pull Up",
+        "frequency": 0,
+        "workoutIDs": [
+            2
+        ],
+        "goals": [],
+        "youtubeUrl": null,
+        "note": "",
+        "dailyExercise": false
+    },
+    {
+        "unit": "Repitition",
+        "name": "Squat",
+        "frequency": 0,
+        "workoutIDs": [
+            3
+        ],
+        "goals": [
+            50,
+            40,
+            30
+        ],
+        "youtubeUrl": "https://www.youtube.com/watch?v=jbBlIJk2G-o",
+        "note": "Try full range squat",
+        "dailyExercise": false
+    },
+    {
+        "id": 17,
+        "unit": "Repitition",
+        "name": "Lunge",
+        "frequency": 0,
+        "workoutIDs": [
+            3
+        ],
+        "goals": [
+            20,
+            18,
+            16
+        ],
+        "youtubeUrl": null,
+        "note": "Go straight down. Engage core",
+        "dailyExercise": false
+    },
+    {
+        "unit": "Repitition",
+        "name": "Lunge Walk",
+        "frequency": 0,
+        "workoutIDs": [
+            3
+        ],
+        "goals": [],
+        "youtubeUrl": null,
+        "note": "",
+        "dailyExercise": false
+    },
+    {
+        "unit": "Repitition",
+        "name": "Hip Thruster",
+        "frequency": 0,
+        "workoutIDs": [
+            3
+        ],
+        "goals": [],
+        "youtubeUrl": null,
+        "note": "Core squeezed in",
+        "dailyExercise": false
+    },
+    {
+        "unit": "Repitition",
+        "name": "High Steps",
+        "frequency": 0,
+        "workoutIDs": [
+            3
+        ],
+        "goals": [
+            20,
+            18,
+            16
+        ],
+        "youtubeUrl": null,
+        "note": "",
+        "dailyExercise": false
+    },
+    {
+        "id": 21,
+        "unit": "Repitition",
+        "name": "Calf Raise",
+        "frequency": 0,
+        "workoutIDs": [
+            3
+        ],
+        "goals": [
+            60,
+            56,
+            52
+        ],
+        "youtubeUrl": null,
+        "note": "",
+        "dailyExercise": false
+    },
+    {
+        "unit": "Repitition",
+        "name": "Bicep Dip",
+        "frequency": 0,
+        "workoutIDs": [
+            2
+        ],
+        "goals": [
+            30,
+            26,
+            20
+        ],
+        "youtubeUrl": null,
+        "note": "",
+        "dailyExercise": false
+    },
+    {
+        "unit": "Repitition",
+        "name": "Lat Slides",
+        "frequency": 0,
+        "workoutIDs": [
+            2
+        ],
+        "goals": [
+            20,
+            18,
+            16
+        ],
+        "youtubeUrl": null,
+        "note": "",
+        "dailyExercise": false
+    },
+    {
+        "unit": "Repitition",
+        "name": "Side Lunge",
+        "frequency": 0,
+        "workoutIDs": [
+            3
+        ],
+        "goals": [],
+        "youtubeUrl": null,
+        "note": "",
+        "dailyExercise": false
+    },
+    {
+        "id": 25,
+        "unit": "Second",
+        "name": "Plank",
+        "frequency": 0,
+        "workoutIDs": [
+            4
+        ],
+        "goals": [
+            120
+        ],
+        "youtubeUrl": null,
+        "note": "",
+        "dailyExercise": false
+    },
+    {
+        "id": 26,
+        "unit": "Repitition",
+        "name": "Crunches",
+        "frequency": 0,
+        "workoutIDs": [
+            4
+        ],
+        "goals": [
+            50
+        ],
+        "youtubeUrl": null,
+        "note": "",
+        "dailyExercise": false
+    },
+    {
+        "id": 27,
+        "unit": "Second",
+        "name": "Frog Stand Hold",
+        "frequency": 0,
+        "workoutIDs": [
+            4
+        ],
+        "goals": [
+            20
+        ],
+        "youtubeUrl": null,
+        "note": "",
+        "dailyExercise": true
+    },
+    {
+        "id": 28,
+        "unit": "Second",
+        "name": "Hollow Body Hold",
+        "frequency": 0,
+        "workoutIDs": [
+            4
+        ],
+        "goals": [
+            60
+        ],
+        "youtubeUrl": null,
+        "note": "",
+        "dailyExercise": true
+    },
+    {
+        "id": 29,
+        "unit": "Repitition",
+        "name": "Jumping Jacks",
+        "frequency": 0,
+        "workoutIDs": [
+            5
+        ],
+        "goals": [
+            60
+        ],
+        "youtubeUrl": null,
+        "note": "",
+        "dailyExercise": true
+    },
+    {
+        "id": 30,
+        "unit": "Second",
+        "name": "Mountain Climbers",
+        "frequency": 0,
+        "workoutIDs": [
+            5
+        ],
+        "goals": [
+            60
+        ],
+        "youtubeUrl": null,
+        "note": "",
+        "dailyExercise": true
+    },
+    {
+        "id": 31,
+        "unit": "Repitition",
+        "name": "Burpees",
+        "frequency": 0,
+        "workoutIDs": [
+            5
+        ],
+        "goals": [
+            20
+        ],
+        "youtubeUrl": null,
+        "note": "",
+        "dailyExercise": true
+    },
+    {
+        "id": null,
+        "unit": "Repitition",
+        "name": "Bicep Pull",
+        "frequency": 0,
+        "workoutIDs": [
+            2
+        ],
+        "goals": [],
+        "youtubeUrl": null,
+        "note": "",
+        "dailyExercise": false
+    },
+    {
+        "id": null,
+        "unit": "Repitition",
+        "name": "Diamond Dip",
+        "frequency": 0,
+        "workoutIDs": [
+            2
+        ],
+        "goals": [],
+        "youtubeUrl": null,
+        "note": "",
+        "dailyExercise": false
+    }
+]
