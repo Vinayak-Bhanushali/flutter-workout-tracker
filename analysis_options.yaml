@@ -1,0 +1,16 @@
+# analyzer:
+#   exclude:
+#     - lib/ui/widgets/scroll_to_index.dart
+# #   enable-experiment:
+# #     - non-nullable
+
+# linter:
+#   rules:
+#     - annotate_overrides
+#     - await_only_futures
+#     - camel_case_types
+#     - cancel_subscriptions
+#     - close_sinks
+#     - comment_references
+#     - control_flow_in_finally
+#     - empty_statements
