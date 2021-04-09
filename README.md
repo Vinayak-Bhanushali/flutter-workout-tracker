@@ -3,13 +3,13 @@
 A simple workout tracker app developed using flutter
 
 Features:
-    Create custom workouts
-    Create custom exercises
-    Calendar View
-    Monthly statistics
-    Progress view
-    Timeline
-    Custom reminder
+- Create custom workouts
+- Create custom exercises
+- Calendar View
+- Monthly statistics
+- Progress view
+- Timeline
+- Custom reminder
 
 Please use Dark Mode as of now
 
