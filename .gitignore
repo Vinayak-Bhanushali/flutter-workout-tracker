@@ -1,11 +1,11 @@
 sembast_export.json
-pubspec.lock
 
 # Miscellaneous
 *.class
 *.log
 *.pyc
 *.swp
+*.lock
 .DS_Store
 .atom/
 .buildlog/
